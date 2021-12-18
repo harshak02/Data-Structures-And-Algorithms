@@ -1,0 +1,3 @@
+in stack
+
+we have the all functions time complexity as O(1) only
